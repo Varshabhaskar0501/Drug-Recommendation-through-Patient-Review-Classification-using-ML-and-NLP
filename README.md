@@ -1,5 +1,5 @@
 
-# 💊 Enhanced Drug Recommendation through Patient Review Classification using ML and NLP
+# 💊 Drug Recommendation through Patient Review Classification using ML and NLP
 
 A healthcare-focused project that uses **Natural Language Processing** and **Machine Learning** to classify patient medical conditions from drug reviews and recommend appropriate medications.  
 
